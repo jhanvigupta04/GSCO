@@ -1,2 +1,0 @@
-# GCSO
-GCSO
